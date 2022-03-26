@@ -38,4 +38,4 @@ DLA experiments are heavily based on [this seminar](https://github.com/markovka1
 from [HSE DLA course](https://github.com/markovka17/dla)
 
 This project was conducted for [HSE Research Seminar](https://github.com/bayesgroup/HSE_ML_research_seminar/tree/master/2021-2022),
-see materials of the talk here.
+see materials of the talk [here](https://github.com/bayesgroup/HSE_ML_research_seminar/tree/master/2021-2022/182/21%20-%20Stochastic%20Training%20is%20Not%20Necessary%20for%20Generalization).
